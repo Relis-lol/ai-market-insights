@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <h1>leAI News & Stock Impact</h1>
+<h1>📊 AI News & Stock Impact</h1>
+
 </head>
 <body style="font-family:sans-serif; padding:2rem; max-width:800px; margin:auto;">
 
